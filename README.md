@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+If you are from "Innowise" I recommend visiting [this is almost fully managed flutter firebase app](https://github.com/kz2d/first_ui_flutter).
 
 <!--
 **kz2d/kz2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
