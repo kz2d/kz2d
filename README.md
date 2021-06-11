@@ -1,7 +1,8 @@
 ### Hi 👋
 
-##Skills Alngular/react, prefer nest as a backend, have knoladge of python and C\#
-##And I'm learning flutter
+#### Skills Alngular/react, prefer nest as a backend, have knoladge of python and C\#
+
+##### And I'm learning flutter
 
 I recommend visiting [this is fully managed flutter firebase app](https://github.com/kz2d/first_ui_flutter).
 
