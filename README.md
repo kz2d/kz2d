@@ -24,6 +24,7 @@ Professional skills:
 - Linux user btw)
 - English - conversational (there is a document on the B2 level and continue to develop in this direction)
 I love learning! So I'm interested almost in everything, and I'm ready to learn something new.
+[one example of graphql and react](https://kz2d.github.io)
 <!--
 **kz2d/kz2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
