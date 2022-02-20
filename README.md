@@ -1,8 +1,10 @@
 ### Hi 👋
 
 I'm Козырьков Данила\
-17 years old
+18 years old
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=kz2d&theme=dark)
+<!-- 
 Middle Education\
 I'm currently studying at ИТМО(St. Petersburg IT university)\
 Citizenship: Republic of Belarus\
@@ -24,7 +26,7 @@ Professional skills:
 - Linux user btw)
 - English - conversational (there is a document on the B2 level and continue to develop in this direction)
 I love learning! So I'm interested almost in everything, and I'm ready to learn something new.
-[one example of graphql and react](https://kz2d.github.io)
+[one example of graphql and react](https://kz2d.github.io) -->
 <!--
 **kz2d/kz2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
